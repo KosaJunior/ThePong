@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 40c5dcdc18f7e29448e6f268a71399b0
+timeCreated: 1513270810
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenger Italic
+  fontNames:
+  - Avenger Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
